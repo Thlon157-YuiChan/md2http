@@ -1,0 +1,8 @@
+Third-party software:
+
+- goldmark (github.com/yuin/goldmark) - MIT License
+  Copyright (c) 2019 Yusuke Inuzuka
+
+Go standard library - BSD-3-Clause (golang.org/LICENSE)
+EOF
+echo done

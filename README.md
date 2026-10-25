@@ -13,7 +13,9 @@ go run . [-port 8080] [-dir .] [PORT]
 
 `.md` / `.markdown` は Markdown として HTML に変換（GFM 対応、テーブル・コードブロック等）。それ以外のファイルは静的配信。ディレクトリは一覧表示。
 
-## ビルド
+## License
+
+GPLv3 (or later). See [LICENSE](LICENSE). Third-party notices in [NOTICE](NOTICE).
 
 ```sh
 go build -o md2http .

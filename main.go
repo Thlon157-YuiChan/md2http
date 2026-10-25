@@ -1,3 +1,11 @@
+// md2http is a simple HTTP server that renders Markdown files as HTML.
+//
+// Copyright (C) 2026 yuthlon157@gmail.com
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
 package main
 
 import (
