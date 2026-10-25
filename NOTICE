@@ -4,5 +4,3 @@ Third-party software:
   Copyright (c) 2019 Yusuke Inuzuka
 
 Go standard library - BSD-3-Clause (golang.org/LICENSE)
-EOF
-echo done
