@@ -21,5 +21,3 @@ GPLv3 (or later). See [LICENSE](LICENSE). Third-party notices in [NOTICE](NOTICE
 go build -o md2http .
 ./md2http 8080
 ```
-EOF
-echo done
